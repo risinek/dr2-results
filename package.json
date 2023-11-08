@@ -1,0 +1,20 @@
+{
+  "name": "dr2_results",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "axios": "^0.21.2",
+    "dotenv": "^16.3.1",
+    "lodash": "^4.17.21",
+    "puppeteer": "^2.1.1"
+  }
+}
